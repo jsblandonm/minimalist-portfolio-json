@@ -1,0 +1,116 @@
+{
+    "basics": {
+      "name": "Johan Sebastian Blandon Montoya",
+      "label": "Ingeniero Fisico & Backend Developer",
+      "image": "https://avatars.githubusercontent.com/u/94935847?s=400&u=b036c0a1324e3b58eea81559bd1b8498725a1fbf&v=4",
+      "email": "jsblandonm@gmail.com",
+      "phone": "+57 3127592134",
+      "url": "",
+      "summary": "En esta parte se colocara e pequeño resume de mi",
+      "location": {
+        "address": "",
+        "postalCode": "170002",
+        "city": "Manizales",
+        "countryCode": "COL",
+        "region": "Colombia"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "jsblandonm",
+        "url": "https://linkedin.com/in/jsblandónmontoya"
+      },
+      {
+        "network": "GitHub",
+        "username": "jsblandonm",
+        "url": "https://github.com/jsblandonm"
+      }]
+    },
+    "work": [{
+      "name": "Mision Tic",
+      "position": "Full Stack developer",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "se creo varias aplicaciones tanto en frontend como en backend para el progrma de mision tic",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Nacional de Colombia",
+      "url": "https://institution.com/",
+      "area": "Ingenieria Fisica",
+      "studyType": "Pregrado",
+      "startDate": "2015-06-06",
+      "endDate": "2021-11-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"  
+    }
+  ]
+}
