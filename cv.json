@@ -141,7 +141,7 @@
     "name": "Api-Rest-AWS",
     "isActive": false,
     "description": "Es una lambda creada con ApiRest para crear un CRUD en AWS y base de datos DynamoDb",
-    "highlights": ["Implementación exitosa de CRUD en AWS con Lambda y DynamoDB"],
+    "highlights": ["Lambda - AWS - DynamoDb"],
     "url": "",
     "github":"https://github.com/jsblandonm/Api-Rest-AWS/tree/master/api-Rest"
   },
@@ -149,7 +149,7 @@
     "name": "Clone de Mercado Pago",
     "isActive": false,
     "description": "Es un clon del sistema de pago de Mercado Pago donde se pueden ver sus funcionalidades",
-    "highlights": ["Recreación fiel del sistema de pago de Mercado Pago"],
+    "highlights": ["Clon MercadoPago"],
     "url": "",
     "github":"https://github.com/jsblandonm/Mercadopago-nodejs"
   },
@@ -157,7 +157,7 @@
     "name": "MensajeraExpress",
     "isActive": false,
     "description": "Plataforma de mensajería para envíos seguros y eficientes. Permite envío, rastreo, gestión de paquetes y logística. API REST para operaciones.",
-    "highlights": ["Desarrollo de API REST para plataforma de mensajería de paquetes"],
+    "highlights": ["ApiREST"],
     "url": "",
     "github": "https://github.com/jsblandonm/MensajeraExpress"
   },
@@ -165,7 +165,7 @@
     "name": "Veterinaria",
     "isActive": true,
     "description": "Es uan plataforma interactiva creada en su parte Front con angular, y su parte backend utilizando loopback",
-    "highlights": ["interaccion con angular"],
+    "highlights": ["Angular - LoopBack"],
     "url": "https://frontend-veterinaria.vercel.app/home",
     "github":"https://github.com/jsblandonm/Backend-Veterinaria"
   }
