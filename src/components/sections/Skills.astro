@@ -1,18 +1,34 @@
 ---
 import Section from "@/components/Section.astro";
+import Git from "@/icons/Git.astro";
+import GitHub from "@/icons/GitHub.astro";
+import Java from "@/icons/Java.astro";
+import Mongodb from "@/icons/Mongodb.astro";
+import Mysql from "@/icons/Mysql.astro";
 import Css from "@/icons/css.astro";
 import Html from "@/icons/html.astro";
 import Javascript from "@/icons/javascript.astro";
+import Node from "@/icons/node.astro";
+import React from "@/icons/react.astro";
+import Sql from "@/icons/sql.astro";
 import { skills } from "@cv";
 
 const SKILLS_ICONS: Record<string, any> = {
   Html,
   Css,
   Javascript,
+  React,
+  Node,
+  GitHub,
+  Sql,
+  Mongodb,
+  Java,
+  Mysql,
+  Git,
 };
 ---
 
-<Section title="Skills">
+<Section title="Habilidades">
   <ul>
     {
       skills.map(({ name }) => {
@@ -20,9 +36,11 @@ const SKILLS_ICONS: Record<string, any> = {
         const Icon = SKILLS_ICONS[iconName];
 
         return (
-          <li>
-            {Icon && <Icon />} <span>{name}</span>
-          </li>
+          <>
+            <li>
+              {Icon && <Icon />} <span>{name}</span>
+            </li>
+          </>
         );
       })
     }

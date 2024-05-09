@@ -5,7 +5,7 @@ import GitHub from "@/icons/GitHub.astro";
 import { projects } from "@cv";
 ---
 
-<Section title="Projects">
+<Section title="Proyectos">
   <ul>
     {
       projects.map(
@@ -30,7 +30,7 @@ import { projects } from "@cv";
                         target="_blank"
                         title={`Ver codigo fuente del proyecto ${name}`}
                       >
-                        {GitHub}
+                        <GitHub />
                       </a>
                     )}
                   </h3>
