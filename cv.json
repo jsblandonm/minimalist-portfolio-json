@@ -34,9 +34,9 @@
       "endDate": "2023-06-12",
       "summary": "Desarrollo de una aplicación de microservicios para Mensajería Express utilizando Java, Spring Boot y Spring Security con JWT. La aplicación cuenta con servicios para la gestión de empleados y clientes, así como un servicio para la gestión de envíos de paquetes que permite crear, consultar y actualizar el estado de los envíos. Se implementaron validaciones para las diferentes transiciones de estado. La seguridad se implementó mediante JWT y se utilizaron buenas prácticas de programación, incluyendo pruebas unitarias para validar su funcionamiento.",
       "highlights": [
-        "Reduje el tiempo de despliegue mediante la implementación de microservicios, optimizando la escalabilidad y el rendimiento del sistema.",
-        "Mejoré la eficiencia operativa al implementar un sistema integral de gestión de empleados, clientes y envíos, lo que resultó en una mayor satisfacción del cliente.",
-        "Aumenté la cobertura de pruebas, asegurando la fiabilidad y estabilidad del sistema, y reduje los errores en producción."
+        "- Reduje el tiempo de despliegue mediante la implementación de microservicios, optimizando la escalabilidad y el rendimiento del sistema.",
+        "- Mejoré la eficiencia operativa al implementar un sistema integral de gestión de empleados, clientes y envíos, lo que resultó en una mayor satisfacción del cliente.",
+        "- Aumenté la cobertura de pruebas, asegurando la fiabilidad y estabilidad del sistema, y reduje los errores en producción."
       ]
     },
     {
