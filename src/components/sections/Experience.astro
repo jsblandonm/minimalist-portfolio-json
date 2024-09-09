@@ -37,12 +37,10 @@ import { work } from "@cv";
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
-                  <p>
-                    {highlights.map((higlight) => {
-                      return <span>{higlight}</span>;
-                    })}
-                  </p>
+                  <div>
+                    <p>{summary}</p>
+                    <h3>{highlights.length}</h3>
+                  </div>
                 </footer>
               </article>
             </li>
