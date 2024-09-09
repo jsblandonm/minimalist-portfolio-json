@@ -6,7 +6,7 @@
     "email": "jsblandonm@gmail.com",
     "phone": "+57 3127592134",
     "url": "",
-    "summary": "Ingeniero Físico y Desarrollador Backend con 2 años de experiencia en el desarrollo web, tanto en el frontend como en el backend. Poseo un sólido dominio de tecnologías clave como JavaScript, Python, Node.js y MongoDB. Mi enfoque proactivo, habilidades colaborativas y capacidad para resolver problemas complementan mi perfil técnico, asegurando un aporte valioso a cualquier equipo.",
+    "summary":"Ingeniero Físico y Desarrollador Backend con 2 años de experiencia en el desarrollo web, tanto en el frontend como en el backend. Poseo un sólido dominio de tecnologías clave como JavaScript, Python, Node.js y MongoDB. Mi enfoque proactivo, habilidades colaborativas y capacidad para resolver problemas complementan mi perfil técnico, asegurando un aporte valioso a cualquier equipo.",
     "location": {
       "address": "",
       "postalCode": "170002",
@@ -33,7 +33,11 @@
       "startDate": "2023-06-06",
       "endDate": "2023-06-12",
       "summary": "Desarrollo de una aplicación de microservicios para Mensajería Express utilizando Java, Spring Boot y Spring Security con JWT. La aplicación cuenta con servicios para la gestión de empleados y clientes, así como un servicio para la gestión de envíos de paquetes que permite crear, consultar y actualizar el estado de los envíos. Se implementaron validaciones para las diferentes transiciones de estado. La seguridad se implementó mediante JWT y se utilizaron buenas prácticas de programación, incluyendo pruebas unitarias para validar su funcionamiento.",
-      "highlights": ["Fundé la empresa"]
+      "highlights": [
+        "Reduje el tiempo de despliegue mediante la implementación de microservicios, optimizando la escalabilidad y el rendimiento del sistema.",
+        "Mejoré la eficiencia operativa al implementar un sistema integral de gestión de empleados, clientes y envíos, lo que resultó en una mayor satisfacción del cliente.",
+        "Aumenté la cobertura de pruebas, asegurando la fiabilidad y estabilidad del sistema, y reduje los errores en producción."
+      ]
     },
     {
       "name": "Mision Tic",
@@ -42,7 +46,11 @@
       "startDate": "2022-06-06",
       "endDate": "2022-06-12",
       "summary": "Participé en el desarrollo de una página web veterinaria que ofrecía servicios y productos. Utilicé Angular para crear una interfaz visualmente atractiva y dinámica. Implementé un sistema de verificación de usuarios con Python y MongoDB como base de datos. Mi contribución incluyó diseño, desarrollo de interfaz y características de seguridad y almacenamiento de datos.",
-      "highlights": ["Fundé la empresa"]
+      "highlights": [
+        "Contribuí a un aumento en la retención de usuarios gracias a la interfaz atractiva y dinámica creada con Angular.",
+        "Implementé un sistema de verificación de datos que mejoró la precisión de los registros, reduciendo significativamente los errores de datos.",
+        "Diseñé y desarrollé una interfaz segura y eficiente que redujo los tiempos de carga y mejoró la experiencia del usuario, incrementando la satisfacción del cliente."
+      ]
     },
     {
       "name": "Mision Tic",
@@ -51,7 +59,11 @@
       "startDate": "2022-03-03",
       "endDate": "2022-11-11",
       "summary": "Lideré el desarrollo del backend de un sistema de seguimiento de entrega de paquetes mediante drones, utilizando Java y Spring Boot. Establecí una API RESTful, integré una base de datos MySQL y realicé pruebas rigurosas. También contribuí al frontend con CSS/HTML. El sistema optimizó la logística de entrega, mejorando la experiencia del usuario. Mis habilidades en análisis, diseño, Java, Spring Boot, API RESTful, CSS/HTML, MySQL y pruebas fueron fundamentales para el éxito del proyecto.",
-      "highlights": ["Fundé la empresa"]
+      "highlights": [
+        "Diseñé y desarrollé el backend, lo que permitió procesar más entregas diarias, mejorando la eficiencia operativa del sistema.",
+        "Implementé una API RESTful e integré una base de datos MySQL, lo que redujo el tiempo de respuesta de las consultas, aumentando la velocidad y la precisión del seguimiento de entregas.",
+        "Logré una mejora en la satisfacción del cliente al optimizar los procesos logísticos, reduciendo los errores de entrega y proporcionando actualizaciones en tiempo real."
+      ]
     }
   ],
   "volunteer": [{
@@ -63,7 +75,26 @@
     "summary": "Description…",
     "highlights": ["Premiado como 'Voluntario del Mes'"]
   }],
-  "education": [{
+  "education": [
+    {
+      "institution": "Makaia",
+      "url": "https://makaia.com/",
+      "area": "Desarrollo Backend en Java",
+      "studyType": "Certificación - Bootcamp",
+      "startDate": "2023-06-06",
+      "endDate": "2023-06-12",
+      "score": "4.0",
+      "courses": [""]
+    },{
+      "institution": "Universidad de Caldas",
+      "url": "https://www.ucaldas.edu.co/",
+      "area": "Estudios en Desarrollo de Software",
+      "studyType": "Certificación ",
+      "startDate": "2022-02-03",
+      "endDate": "2022-06-12",
+      "score": "4.0",
+      "courses": [""]
+    },{
     "institution": "Universidad Nacional de Colombia",
     "url": "https://unal.edu.co/",
     "area": "Ingeniería Física",
@@ -135,6 +166,10 @@
     {
       "name":"Mysql",
       "keywords":["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Agile Programming",
+      "keywords": ["Project Management", "Software Development"]
     }
   ],
   "projects": [{
